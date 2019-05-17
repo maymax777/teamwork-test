@@ -1,2 +1,2 @@
 # teamwork-test
-# React Native
+# This project is for React Native
